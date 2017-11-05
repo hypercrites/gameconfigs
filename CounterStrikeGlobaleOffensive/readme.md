@@ -1,8 +1,8 @@
-# MAKE SURE YOU HAVE A BACKUP OF YOUR FILES!
+__MAKE SURE YOU HAVE A BACKUP OF YOUR FILES!__
 
 Startparams:
 
--console -novid -language textmodorel -noaafonts -freq 75
+> _-console -novid -language textmodorel -noaafonts -freq 75_
 
 
 (Because my Monitor uses 75Hz)
