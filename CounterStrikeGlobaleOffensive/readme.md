@@ -1,4 +1,4 @@
-MAKE SURE YOU HAVE A BACKUP OF YOUR FILES!
+# MAKE SURE YOU HAVE A BACKUP OF YOUR FILES!
 
 Startparams:
 -console -novid -language textmodorel -noaafonts -freq 75
